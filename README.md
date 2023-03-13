@@ -66,7 +66,7 @@
   
  <div align="center"> 
 
-   [![My Skills](https://skillicons.dev/icons?i=js,html,css,python,react,git,github,vscode,java,mysql,c#)](https://skillicons.dev)
+   [![My Skills](https://skillicons.dev/icons?i=js,html,css,python,react,git,github,vscode,java,mysql,c,cpp,cs,nodejs,)](https://skillicons.dev)
 
   <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- -- Currently studying------------------------------------------------------------------------------------------------------------------------------------ -->
