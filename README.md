@@ -1,10 +1,12 @@
-## Bem vindo(a) me chamo Wilzarlan Napoleão 😁
+### Olá! Eu sou o Wilzarlan Napoleão
 
  <div>
    <a href="https://github.com/wilzarlannapoleao">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wilzarlannapoleao&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wilzarlannapoleao&layout=compact&langs_count=6&theme=tokyonight"/>
 
+ ### Tecnologias que estou usando no momento  
+    
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
