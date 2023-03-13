@@ -2,7 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=OL%C3%81%2C+Meu+nome+%C3%A9+Wilzarlan+Napole%C3%A3o;Tenho+31+anos+de+idade.;Brasileiro%2C+PE.;Estudante+de;An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Seja+Bem+Vindo(a)!)](https://git.io/typing-svg)
 
-
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=wilzarlannapoleao&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Matheus Maia Alvarez github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wilzarlannapoleao&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
