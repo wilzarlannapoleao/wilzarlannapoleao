@@ -2,8 +2,7 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=OL%C3%81%2C+Meu+nome+%C3%A9+Wilzarlan+Napole%C3%A3o;Tenho+31+anos+de+idade.;Brasileiro%2C+PE.;Estudante+de;An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Seja+Bem+Vindo(a)!)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=falso&vCenter=falso&repeat=verdadeiro&random=falso&width=435&lines=Ol%C3%A1+pessoal+%F0%9F%91%8B;me+chamo+Wilzarlan+Napole%C3%A3o++;Sou+estudante+de+ADS;An%C3%A1lise+e+Desenvolvimento+de+Sistemas+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)
 
 
 
