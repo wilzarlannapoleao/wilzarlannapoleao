@@ -83,8 +83,15 @@
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{wilzarlannapoleao}/count.svg" /></p> 
 <br></div>
+
  
- 
+ <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HenriqueLopes42/HenriqueLopes42/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HenriqueLopes42/HenriqueLopes42/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/HenriqueLopes42/HenriqueLopes42/output/github-contribution-grid-snake-dark.svg">
+  
+</picture>
+
  
 
   <img data-target="animated-image.replacedImage" alt="dino.gif" class="AnimatedImagePlayer-animatedImage" src="https://github.com/saadeghi/saadeghi/raw/master/dino.gif" style="display: block; opacity: 1;">
