@@ -79,7 +79,6 @@
 <br></div>
 
  
-![snake gif](https://github.com/wilzarlannapoleao/read.me/blob/output/github-contribution-grid-snake.svg)
 
  
 
