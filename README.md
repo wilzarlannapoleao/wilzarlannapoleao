@@ -79,7 +79,7 @@
 <br></div>
 
  
-uses: Platane/snk/svg-only@v3
+![snake gif](https://github.com/wilzarlannapoleao/read.me/blob/output/github-contribution-grid-snake.svg)
 
  
 
